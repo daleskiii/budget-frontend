@@ -1,0 +1,25 @@
+.data {
+  border: none;
+  border-bottom: 1px solid black;
+}
+.data-box td {
+  padding: 50px;
+  justify-content: space-between;
+}
+.data-box {
+  justify-content: center;
+}
+.index {
+  padding-left: 75px;
+}
+.greenish {
+  background-color: green;
+}
+
+.yellowish {
+  background-color: yellow;
+}
+
+.reddish {
+  background-color: red;
+}
